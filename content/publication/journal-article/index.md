@@ -1,12 +1,15 @@
 ---
-title: "An example journal article"
+title: "Low-temperature Direct Bonding of Si and Quartz Glass Using the APTES Modification"
 authors:
+- Jikai Xu
+- Chenxi Wang*, 
 - admin
-- Robert Ford
+- Runbo Zhang
+- Yanhong Tian
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
-date: "2015-09-01T00:00:00Z"
+date: "2019-09-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -19,10 +22,10 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
+publication: "*Low-temperature Direct Bonding of Si and Quartz Glass Using the APTES Modification, 45*(13), 16670-16675"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Low-temperature direct bonding is an attractive technique for joining mirror polished dissimilar materials with large mismatch in the coefficient of thermal expansion or/and lattice constant. In this paper, we proposed a method for the direct bonding of Si and quartz glass using the 3-aminopropyltriethoxysilane (APTES) modification. Strong bonding strength which was equal to or stronger than the fracture strength of the quartz glass substrate has been achieved after the Si/quartz glass pre-bonded pair was annealed at 150 °C. Based on the analyses of the wettability and surface chemical states, grafting of APTES and substitution of ethoxy groups have been studied in detail. Additionally, the tight and nanoscale bonding interface observed by scanning electron microscopy and transmission electron microscopy also ensured the excellent sealability, as well as, facilitated the device miniaturization.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -34,7 +37,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: https://www.google.com/url?q=https%3A%2F%2Fwww.sciencedirect.com%2Fscience%2Farticle%2Fpii%2FS0272884219312076&sa=D&sntz=1&usg=AFQjCNH7KSnk2aP5l03RVa8K4cOx-cpoTQ
 url_code: ''
 url_dataset: ''
 url_poster: ''
