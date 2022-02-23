@@ -25,7 +25,7 @@ education:
   courses:
   - course: PhD in Bioengineering
     institution: The Univeristy of Tokyo
-    year: 2012
+    year: 2021
   - course: MEng in Materials Science and Engineering
     institution: Harbin Institute of Technology
     year: 2019
@@ -40,13 +40,13 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:test@example.org'
+  link: 'shichengzhou@g.ecc.u-tokyo.ac.jp'
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/GeorgeCushen
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=GhOIFhQAAAAJ&hl=en
 - icon: github
   icon_pack: fab
   link: https://github.com/gcushen
