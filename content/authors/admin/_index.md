@@ -6,7 +6,7 @@ title: Shicheng Zhou
 superuser: true
 
 # Role/position
-role: Ph.D. Student in The Univeristy of Tokyo
+role: 1st year Ph.D. Student
 
 # Organizations/Affiliations
 organizations:
