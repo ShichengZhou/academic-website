@@ -68,6 +68,6 @@ user_groups:
 - Researchers
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Mr. Shicheng Zhou is a highly motivated doctoral student at the Department of Bioengineering, The University of Tokyo. He received both his B. Eng and M. Eng degrees from the School of Materials Science and Engineering, Harbin Institute of Technology in 2019 and 2021. His research interest includes Biomaterials, Electronics Packaging, Wafer Bonding, and Biodegradable alloys.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+About me: I grew up in Ya'an, Sichuan, China, the hometown of pandas and the origin of artificial planting tea of the world. During my past 23 years, I spent most of my lifetimes studying in different cities. Ya'an, Chengdu, Harbin, I studied across from the southwest to the northeast of China. Now I am going to pursue my Ph.D. degree in Tokyo, Japan. Hope everything goes well.
