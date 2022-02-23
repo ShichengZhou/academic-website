@@ -1,37 +1,37 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Shicheng Zhou
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Ph.D. Student in The Univeristy of Tokyo
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: The University of Tokyo
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include Biomaterials, Biosensor, Electronics Packaging, Wafer Bonding, and Welding.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Biomaterials
+- Biosensor
+- Electronics Packaging
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
+  - course: PhD in Bioengineering
+    institution: The Univeristy of Tokyo
     year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: MEng in Materials Science and Engineering
+    institution: Harbin Institute of Technology
+    year: 2019
+  - course: BSc in Electronics Packaging
+    institution: Harbin Institute of Technology
+    year: 2015
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
